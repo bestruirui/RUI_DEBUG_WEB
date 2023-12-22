@@ -22,7 +22,7 @@
         </div>
         <div class="mx-4 card w-96 bg-base-100 shadow-xl">
             <figure class="px-4 pt-4">
-                <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
+                <img src="/yingxiong.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
                 <h2 class="card-title">英雄机器人</h2>
@@ -33,7 +33,7 @@
         </div>
         <div class="mx-4 card w-96 bg-base-100 shadow-xl">
             <figure class="px-4 pt-4">
-                <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
+                <img src="/shaobing.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
                 <h2 class="card-title">哨兵机器人</h2>
@@ -44,7 +44,7 @@
         </div>
         <div class="mx-4 card w-96 bg-base-100 shadow-xl">
             <figure class="px-4 pt-4">
-                <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
+                <img src="/gongcheng.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
                 <h2 class="card-title">工程机器人</h2>
