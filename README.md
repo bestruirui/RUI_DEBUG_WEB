@@ -1,5 +1,10 @@
 # RUI_DEBUG_WEB  
 
+
+## 预览
+![首页](./preview/home.png)
+
+
 ## 安装依赖
 
 ```sh

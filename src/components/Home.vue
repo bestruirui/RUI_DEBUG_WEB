@@ -10,7 +10,7 @@
     <div class="chosemod flex  justify-center">
 
         <div class="mx-4 card w-96 bg-base-100 shadow-xl">
-            <figure class="px-10 pt-10">
+            <figure class="px-4 pt-4">
                 <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
@@ -20,8 +20,8 @@
                 </div>
             </div>
         </div>
-        <div class="mx-4card w-96 bg-base-100 shadow-xl">
-            <figure class="px-10 pt-10">
+        <div class="mx-4 card w-96 bg-base-100 shadow-xl">
+            <figure class="px-4 pt-4">
                 <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="mx-4 card w-96 bg-base-100 shadow-xl">
-            <figure class="px-10 pt-10">
+            <figure class="px-4 pt-4">
                 <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
@@ -43,7 +43,7 @@
             </div>
         </div>
         <div class="mx-4 card w-96 bg-base-100 shadow-xl">
-            <figure class="px-10 pt-10">
+            <figure class="px-4 pt-4">
                 <img src="/bubing.png" alt="Shoes" class="rounded-xl" />
             </figure>
             <div class="card-body items-center text-center">
